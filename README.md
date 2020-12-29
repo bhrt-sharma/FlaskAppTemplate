@@ -36,6 +36,8 @@ install required packages
 make start and stop shell scripts executable
 
 `chmod +x start.sh`
+
+
 `chmod +x shutdown.sh`
 
 run the app
