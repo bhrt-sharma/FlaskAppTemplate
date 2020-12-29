@@ -1,0 +1,10 @@
+__pycache__/
+.idea/
+venv/
+*.jpg
+*.png
+*.jpeg
+*.bak
+*.pyc
+data/models/*.npy
+*.ipynb

@@ -1,0 +1,46 @@
+[2020-12-29 16:39:30 +0530] [20686] [INFO] Starting gunicorn 20.0.4
+[2020-12-29 16:39:30 +0530] [20686] [INFO] Listening at: http://0.0.0.0:8989 (20686)
+[2020-12-29 16:39:30 +0530] [20686] [INFO] Using worker: sync
+[2020-12-29 16:39:30 +0530] [20690] [INFO] Booting worker with pid: 20690
+[2020-12-29 16:39:30 +0530] [20695] [INFO] Booting worker with pid: 20695
+[2020-12-29 16:39:30 +0530] [20697] [INFO] Booting worker with pid: 20697
+[2020-12-29 16:39:53 +0530] [20690] [INFO] Parent changed, shutting down: <Worker 20690>
+[2020-12-29 16:39:53 +0530] [20690] [INFO] Worker exiting (pid: 20690)
+[2020-12-29 16:39:53 +0530] [20695] [INFO] Parent changed, shutting down: <Worker 20695>
+[2020-12-29 16:39:53 +0530] [20695] [INFO] Worker exiting (pid: 20695)
+[2020-12-29 16:41:57 +0530] [20697] [INFO] Parent changed, shutting down: <Worker 20697>
+[2020-12-29 16:41:57 +0530] [20697] [INFO] Worker exiting (pid: 20697)
+[2020-12-29 16:46:57 +0530] [21341] [INFO] Starting gunicorn 20.0.4
+[2020-12-29 16:46:57 +0530] [21341] [INFO] Listening at: http://0.0.0.0:8989 (21341)
+[2020-12-29 16:46:57 +0530] [21341] [INFO] Using worker: sync
+[2020-12-29 16:46:57 +0530] [21347] [INFO] Booting worker with pid: 21347
+[2020-12-29 16:46:57 +0530] [21355] [INFO] Booting worker with pid: 21355
+[2020-12-29 16:46:57 +0530] [21358] [INFO] Booting worker with pid: 21358
+[2020-12-29 16:47:15 +0530] [21347] [INFO] Parent changed, shutting down: <Worker 21347>
+[2020-12-29 16:47:15 +0530] [21347] [INFO] Worker exiting (pid: 21347)
+[2020-12-29 16:47:15 +0530] [21358] [INFO] Parent changed, shutting down: <Worker 21358>
+[2020-12-29 16:47:15 +0530] [21358] [INFO] Worker exiting (pid: 21358)
+[2020-12-29 16:50:44 +0530] [21810] [INFO] Starting gunicorn 20.0.4
+[2020-12-29 16:50:44 +0530] [21810] [INFO] Listening at: http://0.0.0.0:8989 (21810)
+[2020-12-29 16:50:44 +0530] [21810] [INFO] Using worker: sync
+[2020-12-29 16:50:44 +0530] [21813] [INFO] Booting worker with pid: 21813
+[2020-12-29 16:50:44 +0530] [21818] [INFO] Booting worker with pid: 21818
+[2020-12-29 16:50:44 +0530] [21820] [INFO] Booting worker with pid: 21820
+[2020-12-29 16:51:22 +0530] [21893] [INFO] Starting gunicorn 20.0.4
+[2020-12-29 16:51:22 +0530] [21893] [INFO] Listening at: http://0.0.0.0:8989 (21893)
+[2020-12-29 16:51:22 +0530] [21893] [INFO] Using worker: sync
+[2020-12-29 16:51:22 +0530] [21898] [INFO] Booting worker with pid: 21898
+[2020-12-29 16:51:22 +0530] [21904] [INFO] Booting worker with pid: 21904
+[2020-12-29 16:51:22 +0530] [21906] [INFO] Booting worker with pid: 21906
+[2020-12-29 16:54:27 +0530] [22464] [INFO] Starting gunicorn 20.0.4
+[2020-12-29 16:54:27 +0530] [22464] [INFO] Listening at: http://0.0.0.0:7319 (22464)
+[2020-12-29 16:54:27 +0530] [22464] [INFO] Using worker: sync
+[2020-12-29 16:54:27 +0530] [22468] [INFO] Booting worker with pid: 22468
+[2020-12-29 16:54:27 +0530] [22472] [INFO] Booting worker with pid: 22472
+[2020-12-29 16:54:27 +0530] [22474] [INFO] Booting worker with pid: 22474
+[2020-12-29 17:01:15 +0530] [23544] [INFO] Starting gunicorn 20.0.4
+[2020-12-29 17:01:15 +0530] [23544] [INFO] Listening at: http://0.0.0.0:7319 (23544)
+[2020-12-29 17:01:15 +0530] [23544] [INFO] Using worker: sync
+[2020-12-29 17:01:15 +0530] [23547] [INFO] Booting worker with pid: 23547
+[2020-12-29 17:01:15 +0530] [23550] [INFO] Booting worker with pid: 23550
+[2020-12-29 17:01:15 +0530] [23552] [INFO] Booting worker with pid: 23552

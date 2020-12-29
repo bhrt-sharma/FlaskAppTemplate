@@ -1,0 +1,46 @@
+2020-12-29 16:21:26,411 [INFO] [_internal.py:113]:  * Running on http://0.0.0.0:7381/ (Press CTRL+C to quit)
+2020-12-29 16:21:26,412 [INFO] [_internal.py:113]:  * Restarting with stat
+2020-12-29 16:21:26,511 [WARNING] [_internal.py:113]:  * Debugger is active!
+2020-12-29 16:21:26,584 [INFO] [_internal.py:113]:  * Debugger PIN: 108-089-824
+2020-12-29 16:23:50,706 [INFO] [app.py:15]: calling method: home
+2020-12-29 16:23:50,707 [INFO] [_internal.py:113]: 127.0.0.1 - - [29/Dec/2020 16:23:50] "[37mGET / HTTP/1.1[0m" 200 -
+2020-12-29 16:23:50,986 [INFO] [_internal.py:113]: 127.0.0.1 - - [29/Dec/2020 16:23:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-12-29 16:38:28,475 [INFO] [_internal.py:113]:  * Running on http://0.0.0.0:8989/ (Press CTRL+C to quit)
+2020-12-29 16:38:38,502 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:38:38,503 [INFO] [_internal.py:113]: 127.0.0.1 - - [29/Dec/2020 16:38:38] "[37mGET / HTTP/1.1[0m" 200 -
+2020-12-29 16:38:38,772 [INFO] [_internal.py:113]: 127.0.0.1 - - [29/Dec/2020 16:38:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-12-29 16:39:34,149 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:39:35,248 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:39:53,780 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:39:54,637 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:39:55,386 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:39:56,138 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:39:56,810 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:39:57,212 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:39:57,417 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:39:57,593 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:39:57,761 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:39:57,928 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:39:58,117 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:39:58,282 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:39:58,468 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:40:27,078 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:40:27,848 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:40:33,818 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:40:34,629 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:40:35,402 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:40:36,432 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:47:00,900 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:47:15,498 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:47:16,540 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:47:26,192 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:47:27,051 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:47:27,247 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:47:27,430 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:48:11,629 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:51:25,523 [INFO] [routes.py:13]: calling method: home
+2020-12-29 16:55:00,355 [INFO] [routes.py:13]: calling method: home
+2020-12-29 17:00:52,602 [INFO] [_internal.py:113]:  * Running on http://0.0.0.0:7319/ (Press CTRL+C to quit)
+2020-12-29 17:01:04,808 [INFO] [routes.py:13]: calling method: home
+2020-12-29 17:01:04,809 [INFO] [_internal.py:113]: 127.0.0.1 - - [29/Dec/2020 17:01:04] "[37mGET / HTTP/1.1[0m" 200 -
+2020-12-29 17:01:15,928 [INFO] [routes.py:13]: calling method: home
