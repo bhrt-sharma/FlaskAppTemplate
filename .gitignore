@@ -8,3 +8,8 @@ venv/
 *.pyc
 data/models/*.npy
 *.ipynb
+*.output
+*.log
+*.pid
+*.ipynb
+*.out
