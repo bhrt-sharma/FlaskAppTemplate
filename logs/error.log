@@ -44,3 +44,9 @@
 [2020-12-29 17:01:15 +0530] [23547] [INFO] Booting worker with pid: 23547
 [2020-12-29 17:01:15 +0530] [23550] [INFO] Booting worker with pid: 23550
 [2020-12-29 17:01:15 +0530] [23552] [INFO] Booting worker with pid: 23552
+[2021-05-31 12:51:09 +0530] [196213] [INFO] Starting gunicorn 20.0.4
+[2021-05-31 12:51:09 +0530] [196213] [INFO] Listening at: http://0.0.0.0:7319 (196213)
+[2021-05-31 12:51:09 +0530] [196213] [INFO] Using worker: sync
+[2021-05-31 12:51:09 +0530] [196216] [INFO] Booting worker with pid: 196216
+[2021-05-31 12:51:09 +0530] [196217] [INFO] Booting worker with pid: 196217
+[2021-05-31 12:51:09 +0530] [196219] [INFO] Booting worker with pid: 196219

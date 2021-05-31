@@ -8,10 +8,10 @@ def create_app():
     app.config.from_object(ServiceConfig)
 
     FORMAT = '%(asctime)-15s [%(levelname)s] [%(filename)s:%(lineno)s]: %(message)s'
-    logging.basicConfig(format=FORMAT, level=logging.INFO, filename="logs/webPassive.out")
+    logging.basicConfig(format=FORMAT, level=logging.INFO, filename="logs/save_logs.out")
 
-    from routes import webPassive
+    from routes import template_app
 
-    app.register_blueprint(webPassive)
+    app.register_blueprint(template_app)
 
     return app

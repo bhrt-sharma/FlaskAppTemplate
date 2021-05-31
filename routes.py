@@ -4,10 +4,10 @@ from flask import Blueprint, jsonify, request, jsonify
 
 logger = logging.getLogger(__name__)
 
-webPassive = Blueprint('webPassive', __name__)
+template_app = Blueprint('template_app', __name__)
 
 
-@webPassive.route('/', methods=['POST','GET'])
+@template_app.route('/', methods=['POST','GET'])
 def home():
     if request.method == 'GET':
         logger.info("calling method: home")
@@ -21,4 +21,4 @@ def home():
         # return jsonify(resultJson)
 
 if __name__ == '__main__':
-    webPassive.run(host='0.0.0.0', port=7381, debug=True)
+    template_app.run(host='0.0.0.0', port=7319, debug=True)
