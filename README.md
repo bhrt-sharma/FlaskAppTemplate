@@ -23,7 +23,7 @@ Change directory to FlaskAppTemplate.
 
 make virtual environment
 
-`virtualenv venv -p python3`
+`virtualenv venv -p python3.8`
 
 activate virtual environment
 
